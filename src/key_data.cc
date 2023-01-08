@@ -180,7 +180,7 @@ KeyData::KeyData(TransformList key_origin) {
     // k.t().ry = -5;
 
     k.SetParent(key_a);
-    k.SetPosition(-22.597, 4.000, 0.207);
+    k.SetPosition(-25.097, 4.000, 0.207);
     k.t().ry = 5;
   });
 
