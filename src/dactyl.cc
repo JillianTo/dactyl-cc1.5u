@@ -71,6 +71,11 @@ int main() {
     }
   }
 
+  d.key_plus.extra_width_left = 8;
+  d.key_tab.extra_width_left = 8;
+  d.key_caps.extra_width_left = 8;
+  d.key_shift.extra_width_left = 8;
+
   d.key_5.extra_width_right = 4;
   d.key_t.extra_width_right = 4;
   d.key_g.extra_width_right = 4;
